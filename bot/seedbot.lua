@@ -229,7 +229,7 @@ An advance Administration bot based on yagop/telegram-bot
 
 اینجا کلا پاک شده!
 اگه با سودو کار داری
-@ali_mr_fox_sudo
+@me_sudo_mr_fox
 ]],
     help_text_realm = [[
 Realm Commands:
